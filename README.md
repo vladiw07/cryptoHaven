@@ -2,10 +2,10 @@
 
 ## Preview
 
-![Desktop Preview]![Screenshot_8](https://github.com/user-attachments/assets/69cb2996-f5b9-4907-b735-2314ea6737db)
+[Screenshot_8](https://github.com/user-attachments/assets/69cb2996-f5b9-4907-b735-2314ea6737db)
 
 
-![Mobile Preview]![IMG_2340](https://github.com/user-attachments/assets/1ac70002-7415-44e2-8fa8-641042c701fc)
+[IMG_2340](https://github.com/user-attachments/assets/1ac70002-7415-44e2-8fa8-641042c701fc)
 
 
 ## Live Demo
