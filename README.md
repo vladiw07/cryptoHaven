@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# CryptoHaven - Crypto Wallet Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview
 
-## Available Scripts
+![Desktop Preview]![Screenshot_8](https://github.com/user-attachments/assets/69cb2996-f5b9-4907-b735-2314ea6737db)
 
-In the project directory, you can run:
 
-### `npm start`
+![Mobile Preview]![IMG_2340](https://github.com/user-attachments/assets/1ac70002-7415-44e2-8fa8-641042c701fc)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Live Demo
 
-### `npm test`
+➡️ [View Live Demo](https://crypto-haven-tau.vercel.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Disclaimer
 
-### `npm run build`
+⚠️ **Note**: This project was developed as a concept landing page. The design is original or based on common design trends and is used strictly for demonstration and learning purposes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Overview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+CryptoHaven is a futuristic crypto wallet landing page built with React, Tailwind CSS, and React Icons. It presents a sleek, modern user interface to showcase the simplicity and performance of a fictional crypto platform.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- Responsive design for desktop and mobile
+- Bold hero section with a dark cosmic theme
+- Modern navigation bar with CTA
+- Smooth gradient and visual enhancements
+- Animated and GPU-accelerated background
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **React** (v18+) – JavaScript library for building user interfaces
+- **Tailwind CSS** (v3+) – Utility-first CSS framework
+- **React Icons** – Icon library for React
+- **Vite** – Fast bundler and development environment
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/cryptohaven.git
+   cd cryptohaven
